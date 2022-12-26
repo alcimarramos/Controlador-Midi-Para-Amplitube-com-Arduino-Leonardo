@@ -1,0 +1,5 @@
+
+
+  EXTRAIR TODAS AS PASTAS DE BLIBLIOTECAS PARA O LOCAL:
+
+  C:\Users\"seu Usuário"\Documents\Arduino\libraries
