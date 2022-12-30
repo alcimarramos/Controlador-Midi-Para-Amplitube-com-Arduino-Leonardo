@@ -6,9 +6,10 @@ Controlador com <b>5 Pedais</b><br>
 <br>
 <b>LISTA DE MATERIAIS:</b><br>
 1 Arduíno Leonardo<br>
-5 Chaves Momentâneas<br>
-5 LEDs<br>
-5 Resistores de 220 Ohms para os LEDs.<br>
+6 Chaves Momentâneas<br>
+4 LEDs<br>
+4 Resistores de 220 Ohms para os LEDs.<br>
+1 Jack Stereo P10.<br>
 Fios usei de Fonte de PC<br>
 Caixa de Madeira comprada em Loja de Artesanato.
 <br>
