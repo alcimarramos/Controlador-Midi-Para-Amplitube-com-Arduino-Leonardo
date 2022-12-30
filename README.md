@@ -13,3 +13,5 @@ Fios usei de Fonte de PC<br>
 Caixa de Madeira comprada em Loja de Artesanato.
 <br>
 Usei solda Cobix e ferro de solda da Hikari, é muito bom usar solda e um ferro de boa qualidade.<br>
+<br>
+<img width=652 height=522 src="ESQUEMA%20DE%20LIGAÇÃO%20DOS%20PEDAIS%2C%20LEDs%20E%20EXP.jpg">
